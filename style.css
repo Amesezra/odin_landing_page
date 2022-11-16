@@ -104,3 +104,6 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
     background-color: #0d6efd;
     color: #E5E7EB;
 }
+.fit-picture {
+    width: 250px;
+}
